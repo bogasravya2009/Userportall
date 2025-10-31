@@ -1,0 +1,5 @@
+{
+  "name": "React User Authentication",
+  "description": "A simple user authentication application demonstrating login, registration, and a home page using React and Tailwind CSS. User data is persisted in the browser's local storage to simulate a database.",
+  "requestFramePermissions": []
+}
